@@ -1,2 +1,2 @@
 # wbCalcApp
-Weight and balance app for an aircraft I built
+Android weight and balance app for an aircraft I built
